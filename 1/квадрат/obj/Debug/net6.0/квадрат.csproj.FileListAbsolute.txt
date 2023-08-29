@@ -1,0 +1,15 @@
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\bin\Debug\net6.0\квадрат.exe
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\bin\Debug\net6.0\квадрат.deps.json
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\bin\Debug\net6.0\квадрат.runtimeconfig.json
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\bin\Debug\net6.0\квадрат.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\bin\Debug\net6.0\квадрат.pdb
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\квадрат.csproj.AssemblyReference.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\квадрат.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\квадрат.AssemblyInfoInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\квадрат.AssemblyInfo.cs
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\квадрат.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\квадрат.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\refint\квадрат.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\квадрат.pdb
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\квадрат.genruntimeconfig.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадрат\obj\Debug\net6.0\ref\квадрат.dll

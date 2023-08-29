@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\bin\Debug\net6.0\практика.exe
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\bin\Debug\net6.0\практика.deps.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\bin\Debug\net6.0\практика.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\bin\Debug\net6.0\практика.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\bin\Debug\net6.0\практика.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\практика.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\практика.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\практика.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\практика.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\практика.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\refint\практика.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\практика.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\практика.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\практика\obj\Debug\net6.0\ref\практика.dll

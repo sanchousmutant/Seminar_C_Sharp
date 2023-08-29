@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "удалить вторую в многознач числе/1.0.0": {
+        "runtime": {
+          "удалить вторую в многознач числе.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "удалить вторую в многознач числе/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\сумма_чисел.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\сумма_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\сумма_чисел.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\сумма_чисел.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\сумма_чисел.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\bin\Debug\net6.0\сумма_чисел.exe
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\bin\Debug\net6.0\сумма_чисел.deps.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\bin\Debug\net6.0\сумма_чисел.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\bin\Debug\net6.0\сумма_чисел.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\bin\Debug\net6.0\сумма_чисел.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\сумма_чисел.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\refint\сумма_чисел.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\сумма_чисел.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\сумма_чисел.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\сумма_чисел\obj\Debug\net6.0\ref\сумма_чисел.dll

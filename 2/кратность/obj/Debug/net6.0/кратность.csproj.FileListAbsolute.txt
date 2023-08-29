@@ -1,0 +1,33 @@
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.csproj.AssemblyReference.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.AssemblyInfoInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.AssemblyInfo.cs
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.exe
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.deps.json
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.runtimeconfig.json
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.pdb
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\refint\кратность.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.pdb
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.genruntimeconfig.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\ref\кратность.dll
+<<<<<<< HEAD
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.exe
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.deps.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\bin\Debug\net6.0\кратность.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\refint\кратность.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\кратность.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\кратность\obj\Debug\net6.0\ref\кратность.dll
+=======
+>>>>>>> ea05e3d3553307c86b7552731ca9516e71a8293b

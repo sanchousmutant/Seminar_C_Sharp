@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\номер_четверти.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\номер_четверти.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\номер_четверти.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\номер_четверти.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\номер_четверти.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\bin\Debug\net6.0\номер_четверти.exe
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\bin\Debug\net6.0\номер_четверти.deps.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\bin\Debug\net6.0\номер_четверти.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\bin\Debug\net6.0\номер_четверти.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\bin\Debug\net6.0\номер_четверти.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\номер_четверти.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\refint\номер_четверти.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\номер_четверти.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\номер_четверти.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\номер_четверти\obj\Debug\net6.0\ref\номер_четверти.dll

@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\bin\Debug\net6.0\квадраты_числе.exe
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\bin\Debug\net6.0\квадраты_числе.deps.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\bin\Debug\net6.0\квадраты_числе.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\bin\Debug\net6.0\квадраты_числе.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\bin\Debug\net6.0\квадраты_числе.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\квадраты_числе.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\квадраты_числе.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\квадраты_числе.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\квадраты_числе.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\квадраты_числе.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\квадраты_числе.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\refint\квадраты_числе.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\квадраты_числе.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\квадраты_числе.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\квадраты_числе\obj\Debug\net6.0\ref\квадраты_числе.dll

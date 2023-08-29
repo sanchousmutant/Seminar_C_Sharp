@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "номер_четверти/1.0.0": {
+        "runtime": {
+          "номер_четверти.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "номер_четверти/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

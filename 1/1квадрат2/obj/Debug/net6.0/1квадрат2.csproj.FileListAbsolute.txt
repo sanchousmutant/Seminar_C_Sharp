@@ -1,0 +1,15 @@
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\bin\Debug\net6.0\1квадрат2.exe
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\bin\Debug\net6.0\1квадрат2.deps.json
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\bin\Debug\net6.0\1квадрат2.runtimeconfig.json
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\bin\Debug\net6.0\1квадрат2.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\bin\Debug\net6.0\1квадрат2.pdb
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\1квадрат2.csproj.AssemblyReference.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\1квадрат2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\1квадрат2.AssemblyInfoInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\1квадрат2.AssemblyInfo.cs
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\1квадрат2.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\1квадрат2.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\refint\1квадрат2.dll
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\1квадрат2.pdb
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\1квадрат2.genruntimeconfig.cache
+C:\Users\Семья\Documents\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\1квадрат2\obj\Debug\net6.0\ref\1квадрат2.dll

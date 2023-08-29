@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\колво_цифр.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\колво_цифр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\колво_цифр.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\колво_цифр.AssemblyInfo.cs
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\колво_цифр.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\bin\Debug\net6.0\колво_цифр.exe
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\bin\Debug\net6.0\колво_цифр.deps.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\bin\Debug\net6.0\колво_цифр.runtimeconfig.json
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\bin\Debug\net6.0\колво_цифр.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\bin\Debug\net6.0\колво_цифр.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\колво_цифр.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\refint\колво_цифр.dll
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\колво_цифр.pdb
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\колво_цифр.genruntimeconfig.cache
+C:\Users\New\Desktop\УЧЁБА\Семинар\3.Знакомсвто с языком программирования C#\1\колво_цифр\obj\Debug\net6.0\ref\колво_цифр.dll
