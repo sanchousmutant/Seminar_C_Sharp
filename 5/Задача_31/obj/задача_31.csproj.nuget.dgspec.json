@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\задача_31\\задача_31.csproj": {}
+    "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\Задача_31\\задача_31.csproj": {}
   },
   "projects": {
-    "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\задача_31\\задача_31.csproj": {
+    "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\Задача_31\\задача_31.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\задача_31\\задача_31.csproj",
+        "projectUniqueName": "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\Задача_31\\задача_31.csproj",
         "projectName": "задача_31",
-        "projectPath": "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\задача_31\\задача_31.csproj",
+        "projectPath": "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\Задача_31\\задача_31.csproj",
         "packagesPath": "C:\\Users\\New\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\задача_31\\obj\\",
+        "outputPath": "C:\\Users\\New\\Desktop\\УЧЁБА\\Семинар\\3.Знакомсвто с языком программирования C#\\5\\Задача_31\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\New\\AppData\\Roaming\\NuGet\\NuGet.Config"

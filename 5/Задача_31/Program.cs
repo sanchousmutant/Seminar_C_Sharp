@@ -13,32 +13,27 @@ int[] Array()
 }
 
 
-int[] Sum(int[] array)
+void Sum(int[] array)
 {
     int[] sum = new int[2];
     for (int i = 0; i < array.Length; i++)
     {
-        if(array[i] >= 0)
+        if (array[i] >= 0)
         {
             sum[0] += array[i];
         }
         else sum[1] += array[i];
     }
-    return sum;
-}
-
-
-void Print(int[] sum)
-{
-    System.Console.WriteLine($"Сумма положительных чисел массива равна: {sum[0]}");
-    System.Console.WriteLine($"Сумма отрицательных чисел массива равна: {sum[1]}");
+    System.Console.WriteLine("Сумма положительных"
+    + $" чисел массива равна: {sum[0]}");
+    System.Console.WriteLine("Сумма отрицательных"
+    + $" чисел массива равна: {sum[1]}");
 }
 
 
 int[] array = Array();
-int[] sum = Sum(array);
 System.Console.WriteLine();
 System.Console.WriteLine("[{0}]", string.Join(", ", array));
 System.Console.WriteLine();
-Print(sum);
+Sum(array);
 System.Console.WriteLine();
