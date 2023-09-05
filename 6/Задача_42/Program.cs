@@ -16,12 +16,10 @@ void Binary(int number)
         int digit = number % 2;
         number /= 2;
         
-        bin += $"{digit}";
+        bin = $"{digit}" + bin;
     }
-    for (int i = 0; i < bin.Length; i++)
-    {
-        System.Console.Write($"{bin[bin.Length - 1 - i]}");
-    }
+    
+    System.Console.WriteLine(bin);
 }
 
 int number = InputNum("Введите число: ");
